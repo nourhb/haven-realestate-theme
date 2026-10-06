@@ -55,6 +55,16 @@ No plugins required. Google Fonts (Playfair Display + Inter) load automatically;
 ### 1.0.0
 - Initial release: 8 templates, 2 template parts, 10 block patterns, Coastal style variation, theme.js interactions, full a11y pass.
 
+## Design Previews
+![haven-main](https://nour-el-houda-bouajila.rf.gd/wp-content/uploads/2026/10/haven-main.png)
+![haven-listings](https://nour-el-houda-bouajila.rf.gd/wp-content/uploads/2026/10/haven-listings.png)
+![haven-mobile](https://nour-el-houda-bouajila.rf.gd/wp-content/uploads/2026/10/haven-mobile.png)
+![haven-coastal](https://nour-el-houda-bouajila.rf.gd/wp-content/uploads/2026/10/haven-coastal.png)
+![haven-viewing](https://nour-el-houda-bouajila.rf.gd/wp-content/uploads/2026/10/haven-viewing-scaled.png)
+![haven-agents](https://nour-el-houda-bouajila.rf.gd/wp-content/uploads/2026/10/haven-agents.png)
+![haven-neighborhoods](https://nour-el-houda-bouajila.rf.gd/wp-content/uploads/2026/10/haven-neighborhoods.png)
+![haven-testimonials](https://nour-el-houda-bouajila.rf.gd/wp-content/uploads/2026/10/haven-testimonials.png)
+
 ## License
 
 GNU General Public License v2 or later — see `LICENSE`.
